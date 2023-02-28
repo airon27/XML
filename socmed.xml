@@ -143,3 +143,43 @@
 				</account>
 			</application>	
 	</socmed3>
+
+    <socmed4>
+		<name>Tiktok</name>
+			<application>
+				<development>
+					<founders>
+						<founder1>Zhang Yiming</founder1>
+						<founder2>Toutiao</founder2>
+					</founders>
+					<details>
+						<location>China</location>
+						<company>ByteDance Ltd.</company>
+						<launched>
+							<month>September</month>
+							<day>N/A</day>
+							<year>2016</year>
+						</launched>
+					</details>
+				</development>
+				<information>
+					<ceo>Shou Zi Chew</ceo>
+					<description>Tiktok is the leading destination for short-form mobile video” with a company mission to inspire creativity and bring joy.</description>
+					<headquarter>Culver City, California</headquarter>
+					<revenue>$11 billion as of 2022</revenue>
+					<users>1 billion as of 2022</users>
+				</information>
+				<availability>
+					<device1>Android</device1>
+					<device2>IOS</device2>
+					<device3>Windows</device3>
+					<device4>Macintosh</device4>
+					<device5>Smart TV</device5>
+				</availability>
+				<account>
+					<username>Airon27</username>
+					<email>aironprincebeltran27@gmail.com</email>
+					<password>Pass123>/password>
+				</account>
+			</application>	
+	</socmed4>
