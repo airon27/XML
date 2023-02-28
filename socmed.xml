@@ -97,3 +97,49 @@
 				</account>
 			</application>	
 	</socmed2>
+
+    <socmed3>
+		<name>Instagram</name>
+			<application>
+				<development>
+					<founders>
+						<founder1>Kevin Systrom</founder1>
+						<founder2>Mike Krieger</founder2>
+					</founders>
+					<details>
+						<location>United States</location>
+						<company>Meta Platforms, Inc.</company>
+						<launched>
+							<month>October</month>
+							<day>06</day>
+							<year>2010</year>
+						</launched>
+					</details>
+				</development>
+				<information>
+					<ceo>Adam Mosseri</ceo>
+					<description>Instagram is a social network where product-based businesses, influencers, and coaches can thrive.</description>
+					<headquarter>Menlo Park, CA</headquarter>
+					<revenue>$24 billion as of 2022</revenue>
+					<users>2 billion as of 2022</users>
+				</information>
+				<availability>
+					<device1>Android</device1>
+					<device2>IOS</device2>
+					<device3>Windows</device3>
+					<device4>Macintosh</device4>
+					<device5>Smart TV</device5>
+				</availability>
+				<account>
+					<name>Airon Prince C. Beltran</name>
+					<email>aironprincebeltran27@gmail.com</email>
+					<password>Pass123>/password>
+					<birthday>
+						<month>April</month>
+						<day>27</day>
+						<year>2001</year>
+					</birthday>
+					<contactno>09123456789</contactno>
+				</account>
+			</application>	
+	</socmed3>
