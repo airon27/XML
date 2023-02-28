@@ -183,3 +183,53 @@
 				</account>
 			</application>	
 	</socmed4>
+
+    <socmed5>
+		<name>Twitter</name>
+			<application>
+				<development>
+					<founders>
+						<founder1>Evan Williams</founder1>
+						<founder2>Biz Stone</founder2>
+						<founder3>Noah Glass</founder3>
+						<founder4>Jack Dorsey</founder4>
+					</founders>
+					<details>
+						<location>United States</location>
+						<company>Twitter, Inc.</company>
+						<launched>
+							<month>July</month>
+							<day>15</day>
+							<year>2006</year>
+						</launched>
+					</details>
+				</development>
+				<information>
+					<ceo>Elon Musk</ceo>
+					<description>Twitter is a microblogging platform where users primarily share short posts called tweets</description>
+					<headquarter>San Francisco, CA</headquarter>
+					<revenue>$1.2 billion as of 2022</revenue>
+					<users>217 million as of 2021</users>
+				</information>
+				<availability>
+					<device1>Android</device1>
+					<device2>IOS</device2>
+					<device3>Windows</device3>
+					<device4>Macintosh</device4>
+					<device5>Smart TV</device5>
+				</availability>
+				<account>
+					<name>Airon Prince C. Beltran</name>
+					<email>aironprincebeltran27@gmail.com</email>
+					<password>Pass123>/password>
+					<birthday>
+						<month>April</month>
+						<day>27</day>
+						<year>2001</year>
+					</birthday>
+					<contactno>09123456789</contactno>
+				</account>
+			</application>	
+	</socmed5>
+
+</socmed_apps>
